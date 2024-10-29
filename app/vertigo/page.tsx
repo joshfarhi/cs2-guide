@@ -26,7 +26,7 @@ export default function Vertigo() {
       </div>
       
       <h2 className="text-3xl font-bold mb-6 text-foreground">
-        {team === 'Terrorist' ? 'Terrorist Strategies' : 'Counter-Terrorist Strategies'}
+        {team === 'Terrorist' ? 'Terrorist Utilities' : 'Counter-Terrorist Utilities'}
       </h2>
 
       {team === 'Terrorist' ? (
