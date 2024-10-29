@@ -9,7 +9,7 @@ export default function Home() {
       <div className="space-y-4">
         <Link href="/mirage" legacyBehavior>
           <a className="block w-64 py-4 text-center text-xl font-semibold text-foreground bg-transparent rounded-lg shadow-lg transform transition-transform hover:scale-105 items-center justify-center">
-            <Image src="/public/mirage-badge.png" alt="Mirage Badge" width={24} height={24} className="w-12 h-12 mb-2 mx-auto" />
+            <Image src="/images/mirage-badge.png" alt="Mirage Badge" width={24} height={24} className="w-12 h-12 mb-2 mx-auto" />
             Mirage
           </a>
         </Link>
